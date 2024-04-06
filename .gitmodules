@@ -1,0 +1,6 @@
+[submodule "CU-Frontend"]
+	path = CU-Frontend
+	url = https://github.com/902Youth/CU-Frontend
+[submodule "CU-Backend"]
+	path = CU-Backend
+	url = https://github.com/902Youth/CU-Backend
